@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from './components/NavBar'
 import Hero from './components/Hero'
-import Homecards from './components/Homecards'
+import Homecards from './components/HomeCards'
 const App = () => {
   return (
    <>
